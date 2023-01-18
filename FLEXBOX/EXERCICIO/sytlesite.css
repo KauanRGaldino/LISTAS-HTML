@@ -1,0 +1,17 @@
+
+.site{
+display: flex;    
+justify-content: center;
+background-color: rgb(0, 217, 255);    
+}
+
+.container  {
+display: flex;
+}
+
+.container div {
+background-color: rgb(12, 178, 233);
+margin: 20px;
+padding: 10px;
+}
+

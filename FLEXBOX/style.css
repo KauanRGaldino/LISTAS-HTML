@@ -1,0 +1,13 @@
+.container{
+display: flex;
+justify-content: center;
+
+}
+
+.container div {
+background-color: aqua;
+margin: 30px;
+padding: 10px;
+
+}
+
