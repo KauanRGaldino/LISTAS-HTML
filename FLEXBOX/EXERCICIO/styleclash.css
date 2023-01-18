@@ -1,0 +1,26 @@
+.container{
+display: flex;
+justify-content: center;
+}
+
+.container div{
+background-color: darkgrey;
+margin: 10px;
+padding: 20px;
+}
+
+.calica{
+display: flex;
+justify-content:center;
+} 
+
+.calica div{
+background-color: darkgrey;
+margin: 10px;
+padding: 20px;   
+}
+
+.site{
+display: flex; 
+justify-content: center;   
+}
