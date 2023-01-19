@@ -1,0 +1,21 @@
+    .conteiner{
+     border: red 3px dashed;
+     height: 400px;
+     width: 400px;
+    }
+
+    .box1, .box2{
+     width: 150px;
+     height: 150px;
+    }
+
+    .box1{
+     background-color: blue;
+     position: fixed;
+     bottom: 0px;
+     left: 100px;
+    }
+
+    .box2{
+     background-color: red;
+     }
